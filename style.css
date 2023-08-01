@@ -1,0 +1,39 @@
+*{
+    font-family: 'Lobster', cursive;
+}
+body{
+    background-color: darkgoldenrod;
+}
+.container{
+    margin: auto;
+    text-align: center;
+    width: 70%;
+}
+.dice{
+    display: inline-block;
+    text-align: center;
+}
+h1{
+    margin: 35px;
+    text-shadow: 4px 0px 0px gold;
+    font-size: 7rem;
+}
+p{
+    font-size: 2rem;
+}
+img{
+    width: 80%;
+}
+#btn{
+    color: gold;
+    background-color: red;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+footer{
+    margin-top: 5%;
+    text-align: center;
+    color: aliceblue;
+}
